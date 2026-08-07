@@ -1,3 +1,4 @@
+#keys and values
 sugar_amount=3
 print(f"Initial sugar:{sugar_amount}")
 
